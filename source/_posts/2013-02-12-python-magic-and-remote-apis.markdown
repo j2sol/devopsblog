@@ -8,7 +8,7 @@ categories:
 - Python
 - Developer
 ---
-_This is a guest post by Jesse Keating, a Racker working on DevOps for Rackspace's Cloud Server products. You can read his blog at [http://raxcloud.blogspot.com/](http://raxcloud.blogspot.com/) or follow _[@iamjkeating](http://twitter.com/iamjkeating)_ on Twitter._
+_This is a guest post by Jesse Keating, a Racker working on DevOps for Rackspace's Cloud Server products. You can read his blog at [http://raxcloud.blogspot.com/](http://raxcloud.blogspot.com) or follow _[@iamjkeating](http://twitter.com/iamjkeating)_ on Twitter._
 
 I'm a pretty big fan of Python as a programming language. It allows me to
 program by discovery, that is poke and prod at things until the work. Not
